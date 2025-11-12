@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "Site Web E-commerce",
+    "description": "Un site web pour la vente des pc portables.",
+    "category": "web",
+    "details": "Site web de vente de PC portables offrant une interface moderne et intuitive. Il permet de consulter les fiches produits détaillées, d’ajouter des articles au panier et de finaliser les achats facilement..",
+    "images": ["/assets/pic1.png","/assets/pic2.png","/assets/pic3.png","/assets/pic5.png","/assets/pic6.png"],
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "links": [
+      { "name": "GitHub", "url": "https://github.com/Hafaiedh-Habib/website-project" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Application de Contacts",
+    "description": "Une application de carnet de contacts avec Java et Swing.",
+    "category": "desktop",
+    "details": "Permet de gérer des contacts, ajouter, modifier , supprimer et rechercher.",
+    "images": ["/assets/pic11.png","/assets/pic7.png" ,"/assets/pic10.png" ,"/assets/pic9.png","/assets/pic8.png" ],
+    "technologies": ["Java", "Swing", "JSON"],
+    "links": [
+      { "name": "GitHub", "url": "https://github.com/Hafaiedh-Habib/Projet_Java1" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "ISGB-Documents",
+    "description": "Site web pour faciliter les procedures administratif dans la faculté.",
+    "category": "web",
+    "details": "Site web destiné à faciliter les procédures administratives au sein de l’ISG Bizerte. Il permet aux étudiants de soumettre facilement leurs demandes d’attestations de présence, de stage et d’autres documents administratifs en ligne..",
+    "images": ["/assets/pic12.png","/assets/pic13.png"],
+    "technologies": ["HTML", "CSS", "javascript" ,"PHP" , "MySQL"],
+    "links": [
+      { "name": "GitHub", "url": "https://github.com/Hammami-Ghassen/ISGB-Documents" }
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "DevOnDeck",
+    "description": "Une plateforme qui met en relation les développeurs et les recruteurs.",
+    "category": "mobile" ,
+    "details": "Une plateforme qui met en relation les développeurs et les recruteurs, facilitant la recherche d’emploi et le recrutement dans le domaine du développement informatique.",
+    "images": ["/assets/pic14.png","/assets/pic15.png"],
+    "technologies": ["HTML", "CSS", "javascript" ,"PHP" , "MySQL" , "Flutter"],
+    "links": [
+      { "name": "GitHub", "url": "https://github.com/Hammami-Ghassen/DevOnDeck" }
+    ]
+  },
+
+  {
+    "id": 5,
+    "title": "Weather-app",
+    "description": "Application web qui affiche la météo actuelle  pour n’importe quelle ville, avec une interface simple et intuitive..",
+    "category": "web",
+    "details": "Application web qui affiche la météo actuelle pour n’importe quelle ville, avec une interface simple et intuitive.",
+    "images": ["/assets/pic16.png","/assets/pic17.png"],
+    "technologies": ["HTML", "CSS", "JavaScript" , "REACT"],
+    "links": [
+      { "name": "GitHub", "url": "https://github.com/Hafaiedh-Habib/weather" }
+    ]
+  },
+
+  {
+    "id": 6,
+    "title": "Self Portfolio",
+    "description": "Site web personnel conçu pour présenter mon profil",
+    "category": "web" ,
+    "details": "Site web personnel conçu pour présenter mon profil, mes compétences et mes projets. Il offre une navigation claire et intuitive permettant aux visiteurs de découvrir facilement mon parcours, mes réalisations et mes travaux, le tout dans un design moderne et responsive.",
+    "images": ["/assets/pic18.png","/assets/pic19.png","/assets/pic20.png"],
+    "technologies": ["HTML", "CSS", "JavaScript" , "REACT"],
+    "links": [
+      { "name": "GitHub", "url": "https://github.com/Hafaiedh-Habib/weather" }
+    ]
+  }
+]
